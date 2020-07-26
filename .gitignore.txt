@@ -1,0 +1,2 @@
+/bookshelvesAPI/bookshelvesAPI/settings.py
+/bookshelvesAPI/db.sqlite3
